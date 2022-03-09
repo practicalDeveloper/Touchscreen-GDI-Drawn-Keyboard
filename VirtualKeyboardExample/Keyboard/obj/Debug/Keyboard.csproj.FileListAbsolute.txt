@@ -1,0 +1,90 @@
+C:\Users\yjuhno\Desktop\Job\VirtualKeyboard\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.dll
+C:\Users\yjuhno\Desktop\Job\VirtualKeyboard\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\yjuhno\Desktop\Job\VirtualKeyboard\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
+C:\Users\yjuhno\Desktop\Job\VirtualKeyboard\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
+C:\Users\yjuhno\Desktop\Job\VirtualKeyboard\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\yjuhno\Desktop\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.dll
+C:\Users\yjuhno\Desktop\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\yjuhno\Desktop\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\yjuhno\Desktop\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
+C:\Users\yjuhno\Desktop\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
+C:\Users\user\Desktop\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.dll
+C:\Users\user\Desktop\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\user\Desktop\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
+C:\Users\user\Desktop\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
+C:\Users\yjuhno\Desktop\ArticleCodeProject\article-template\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.dll
+C:\Users\yjuhno\Desktop\ArticleCodeProject\article-template\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\yjuhno\Desktop\ArticleCodeProject\article-template\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\yjuhno\Desktop\ArticleCodeProject\article-template\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
+C:\Users\yjuhno\Desktop\ArticleCodeProject\article-template\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
+C:\Users\yjuhno\Desktop\Job\article-VirtualKeyboard\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.dll
+C:\Users\yjuhno\Desktop\Job\article-VirtualKeyboard\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\yjuhno\Desktop\Job\article-VirtualKeyboard\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\yjuhno\Desktop\Job\article-VirtualKeyboard\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
+C:\Users\yjuhno\Desktop\Job\article-VirtualKeyboard\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
+C:\Users\user\Desktop\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.dll
+C:\Users\user\Desktop\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\user\Desktop\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
+C:\Users\user\Desktop\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
+C:\Users\user\Desktop\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.UserControl1.resources
+C:\Users\user\Desktop\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csproj.GenerateResource.Cache
+C:\Users\yjuhno\Desktop\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.dll
+C:\Users\yjuhno\Desktop\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\yjuhno\Desktop\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\yjuhno\Desktop\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
+C:\Users\yjuhno\Desktop\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
+C:\Users\user\Desktop\New folder\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.dll
+C:\Users\user\Desktop\New folder\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\user\Desktop\New folder\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\New folder\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
+C:\Users\user\Desktop\New folder\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
+C:\Users\yjuhno\Desktop\Job\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.dll
+C:\Users\yjuhno\Desktop\Job\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\yjuhno\Desktop\Job\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csprojResolveAssemblyReference.cache
+C:\Users\yjuhno\Desktop\Job\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
+C:\Users\yjuhno\Desktop\Job\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
+C:\Users\Yuri\Desktop\WPF\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.dll
+C:\Users\Yuri\Desktop\WPF\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\Yuri\Desktop\WPF\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csprojAssemblyReference.cache
+C:\Users\Yuri\Desktop\WPF\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Desktop\WPF\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
+C:\Users\Yuri\Desktop\WPF\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
+D:\YJuhno\VirtualKeyboardExample2 (1)\VirtualKeyboardExample2\Keyboard\bin\Debug\Keyboard.dll
+D:\YJuhno\VirtualKeyboardExample2 (1)\VirtualKeyboardExample2\Keyboard\bin\Debug\Keyboard.pdb
+D:\YJuhno\VirtualKeyboardExample2 (1)\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.dll
+D:\YJuhno\VirtualKeyboardExample2 (1)\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.pdb
+D:\YJuhno\VirtualKeyboardExample2 (1)\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.csprojResolveAssemblyReference.cache
+D:\YJuhno\WPF\VirtualKeyboardExample2 (1)\VirtualKeyboardExample2\Keyboard\bin\Debug\Keyboard.dll
+D:\YJuhno\WPF\VirtualKeyboardExample2 (1)\VirtualKeyboardExample2\Keyboard\bin\Debug\Keyboard.pdb
+D:\YJuhno\WPF\VirtualKeyboardExample2 (1)\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.csprojResolveAssemblyReference.cache
+D:\YJuhno\WPF\VirtualKeyboardExample2 (1)\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.dll
+D:\YJuhno\WPF\VirtualKeyboardExample2 (1)\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.pdb
+D:\YJuhno\XXXX\VirtualKeyboardExample2\VirtualKeyboardExample2\Keyboard\bin\Debug\Keyboard.dll
+D:\YJuhno\XXXX\VirtualKeyboardExample2\VirtualKeyboardExample2\Keyboard\bin\Debug\Keyboard.pdb
+D:\YJuhno\XXXX\VirtualKeyboardExample2\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.dll
+D:\YJuhno\XXXX\VirtualKeyboardExample2\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.pdb
+D:\YJuhno\XXXX\VirtualKeyboardExample2\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.csprojResolveAssemblyReference.cache
+D:\YJuhno\XXXX\VirtualKeyboardExampleWorking\VirtualKeyboardExample2\Keyboard\bin\Debug\Keyboard.dll
+D:\YJuhno\XXXX\VirtualKeyboardExampleWorking\VirtualKeyboardExample2\Keyboard\bin\Debug\Keyboard.pdb
+D:\YJuhno\XXXX\VirtualKeyboardExampleWorking\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.dll
+D:\YJuhno\XXXX\VirtualKeyboardExampleWorking\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.pdb
+D:\YJuhno\XXXX\VirtualKeyboardExampleWorking\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.csprojResolveAssemblyReference.cache
+D:\YJuhno\XXXX\VirtualKeyboardExampleWorking2\VirtualKeyboardExample2\Keyboard\bin\Debug\Keyboard.dll
+D:\YJuhno\XXXX\VirtualKeyboardExampleWorking2\VirtualKeyboardExample2\Keyboard\bin\Debug\Keyboard.pdb
+D:\YJuhno\XXXX\VirtualKeyboardExampleWorking2\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.csprojResolveAssemblyReference.cache
+D:\YJuhno\XXXX\VirtualKeyboardExampleWorking2\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.dll
+D:\YJuhno\XXXX\VirtualKeyboardExampleWorking2\VirtualKeyboardExample2\Keyboard\obj\Debug\Keyboard.pdb
+C:\Users\Yuri\Desktop\Vika_Moskva\Eng\Eng2\Codepproject_Articles\article-VirtualKeyboard\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.dll
+C:\Users\Yuri\Desktop\Vika_Moskva\Eng\Eng2\Codepproject_Articles\article-VirtualKeyboard\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\Yuri\Desktop\Vika_Moskva\Eng\Eng2\Codepproject_Articles\article-VirtualKeyboard\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
+C:\Users\Yuri\Desktop\Vika_Moskva\Eng\Eng2\Codepproject_Articles\article-VirtualKeyboard\article-VirtualKeyboard\VirtualKeyboardExample\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
+D:\YJuhno\Codepproject_Articles\article-VirtualKeyboard\VirtualKeyboardSource\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.dll
+D:\YJuhno\Codepproject_Articles\article-VirtualKeyboard\VirtualKeyboardSource\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.pdb
+D:\YJuhno\Codepproject_Articles\article-VirtualKeyboard\VirtualKeyboardSource\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
+D:\YJuhno\Codepproject_Articles\article-VirtualKeyboard\VirtualKeyboardSource\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
+D:\YJuhno\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
+D:\YJuhno\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.dll
+D:\YJuhno\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.pdb
+D:\YJuhno\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
