@@ -50,6 +50,8 @@ namespace Keyboard
         private const string categoryGroup = "Virtual Keyboard";
         private const string showButtonsCategoryGroup = "Virtual Keyboard Buttons Appearance";
         private const string statesCategoryGroup = "Virtual Keyboard States";
+        private const int pressedEventInterval = 50; // interval for timer to simulate holding key pressed
+        private const int timeoutInterval = 500; // interval after which starts key pressed timer  
 
         #endregion
 
@@ -107,6 +109,8 @@ namespace Keyboard
 
         private char _decimalSeparator = '.';
 
+        private Timer pressedEventTimer; // timer to simulate holding key pressed
+        private Timer timeoutTimer; // timer which starts holding key pressed timer  
 
         #endregion
 
@@ -1091,6 +1095,7 @@ namespace Keyboard
             SetStyle(ControlStyles.Selectable, true);
             SetStyle(ControlStyles.AllPaintingInWmPaint, true);
 
+            InitilizePressedTimer();
 
             _startGradientColor = KeyboardColorTable.StartGradientColor;
             _endGradientColor = KeyboardColorTable.EndGradientColor;
@@ -1114,8 +1119,19 @@ namespace Keyboard
             layout = new KeyboardLayout(this);
 
             layout.InitilizeLists();
-
         }
+
+        /// <summary>
+        /// timer which executes during pressed event
+        /// </summary>
+        private void InitilizePressedTimer()
+        {
+            pressedEventTimer = new Timer();
+            pressedEventTimer.Interval = pressedEventInterval;
+            pressedEventTimer.Tick += pressedEventTimer_Tick;
+        }
+
+
 
         #region Apply layout Methods
 
@@ -1489,8 +1505,8 @@ namespace Keyboard
                 DrawButtonsRow(graphics, layout.FunctionRowButtons, xCoord,
                     yCoord, ApplyWidth(
                     firstCount + 1,
-                    firstDefaultCount, 
-                    layout.FirstRowButtonsDefault().Count).Item1, 
+                    firstDefaultCount,
+                    layout.FirstRowButtonsDefault().Count).Item1,
                     funcButtonsHeight, rowNumber,
                     BeginAdvAreaIndex(layout.FirstRowButtons.Count - FirstRowCustomButtonsCount,
                     layout.FirstRowButtonsNumAdv.Count),
@@ -2186,50 +2202,60 @@ namespace Keyboard
                 graphics.DrawRectangle(pen, Rect);
             }
 
-        #endregion
+            #endregion
 
         }
         #endregion
 
         #region Mouse Events
 
+        private void SendKey()
+        {
+            if (!string.IsNullOrEmpty(sentCommand.Command))
+            {
+                SendKeys.Send(sentCommand.Command);
+            }
+        }
+
+
         protected override void OnMouseDown(MouseEventArgs e)
         {
             mouseClickPosition = new Point(e.X, e.Y);
 
-            var btn = buttonsList.Where(d =>
+            var pressedButton = buttonsList.Where(d =>
                            d.Rectangle.Contains(mouseClickPosition)).SingleOrDefault();
+
             sentCommand = new CommandCombination();
 
-            if (btn != null)
+            if (pressedButton != null)
             {
-                buttonOnState = btn;
-                if (btn.ButtonName != Helper.LangBtnName)
+                buttonOnState = pressedButton;
+                if (pressedButton.ButtonName != Helper.LangBtnName)
                 {
-                    if (btn.CanSendCommand)
+                    if (pressedButton.CanSendCommand)
                     {
                         //if not special key and not numeric button pressed
-                        if (!btn.IsSpecialKey && !btn.ButtonName.Contains(Helper.AdvBtn))
+                        if (!pressedButton.IsSpecialKey && !pressedButton.ButtonName.Contains(Helper.AdvBtn))
                         {
-                            sentCommand = _cmdInstructions.RegularCommand(btn);
+                            sentCommand = _cmdInstructions.RegularCommand(pressedButton);
                         }
                         else
                         {
                             // if function button pressed
-                            if (Regex.Match(btn.TopText, KeyboardKeyConstants.FuncButtonsReg).Success)
+                            if (Regex.Match(pressedButton.TopText, KeyboardKeyConstants.FuncButtonsReg).Success)
                             {
-                                sentCommand = _cmdInstructions.FuncKeyCombinationCommand(btn);
+                                sentCommand = _cmdInstructions.FuncKeyCombinationCommand(pressedButton);
                             }
                             // if button in the numeric area  pressed
-                            else if (btn.ButtonName.Contains(Helper.AdvBtn))
+                            else if (pressedButton.ButtonName.Contains(Helper.AdvBtn))
                             {
-                                sentCommand = _cmdInstructions.NumericAreaCommand(btn);
+                                sentCommand = _cmdInstructions.NumericAreaCommand(pressedButton);
                             }
 
                             else
                             {
                                 // if special key(i.e. Enter, Shift, Tab...) pressed
-                                sentCommand = _cmdInstructions.SpecialKeyCommand(btn);
+                                sentCommand = _cmdInstructions.SpecialKeyCommand(pressedButton);
                             }
 
                         }
@@ -2243,15 +2269,42 @@ namespace Keyboard
                 Invalidate();
             }
 
-            if (!string.IsNullOrEmpty(sentCommand.Command))
+            SendKey();
+
+            //timer which executes once
+            timeoutTimer = new Timer();
+            timeoutTimer.Interval = timeoutInterval;
+
+            timeoutTimer.Tick += (sender, ev) =>
             {
-                SendKeys.Send(sentCommand.Command);
-            }
+                timeoutTimer.Stop();
+                timeoutTimer.Dispose();
+
+                InitilizePressedTimer();
+
+                pressedEventTimer.Start();
+            };
+
+            timeoutTimer.Start();
+
+        }
+
+
+
+        private void pressedEventTimer_Tick(object sender, EventArgs e)
+        {
+            SendKey();
         }
 
 
         protected override void OnMouseUp(MouseEventArgs e)
         {
+            pressedEventTimer.Stop();
+            pressedEventTimer.Dispose();
+
+            timeoutTimer.Stop();
+            timeoutTimer.Dispose();
+
             if (buttonOnState != null)
             {
                 OnButtonClick(sentCommand.CommandText, new KeyboardButtonEventArgs(buttonOnState));
@@ -2266,7 +2319,6 @@ namespace Keyboard
 
             Invalidate();
         }
-
 
 
         protected override void OnClick(EventArgs e)
