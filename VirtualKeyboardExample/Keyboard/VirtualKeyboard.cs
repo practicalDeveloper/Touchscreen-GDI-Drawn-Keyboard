@@ -432,6 +432,7 @@ namespace Keyboard
             set
             {
                 layout.FirstRowButtonsCustom = value;
+                Invalidate();
             }
         }
 
@@ -449,6 +450,7 @@ namespace Keyboard
             set
             {
                 layout.SecondRowButtonsCustom = value;
+                Invalidate();
             }
         }
 
@@ -466,6 +468,7 @@ namespace Keyboard
             set
             {
                 layout.ThirdRowButtonsCustom = value;
+                Invalidate();
             }
         }
 
@@ -482,6 +485,7 @@ namespace Keyboard
             set
             {
                 layout.FourthRowButtonsCustom = value;
+                Invalidate();
             }
         }
 
@@ -499,6 +503,7 @@ namespace Keyboard
             set
             {
                 layout.FifthRowButtonsCustom = value;
+                Invalidate();
             }
         }
 

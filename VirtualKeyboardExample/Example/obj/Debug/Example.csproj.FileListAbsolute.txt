@@ -452,3 +452,26 @@ D:\YJuhno\Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example
 D:\YJuhno\Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\obj\Debug\Example.csproj.CopyComplete
 D:\YJuhno\Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\obj\Debug\Example.exe
 D:\YJuhno\Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\obj\Debug\Example.pdb
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\bin\Debug\KeyboardLayouts\KeyboardLayout_GrAltGr.xml
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\bin\Debug\KeyboardLayouts\KeyboardLayout_GrLower.xml
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\bin\Debug\KeyboardLayouts\KeyboardLayout_Gr.xml
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\bin\Debug\KeyboardLayouts\KeyboardLayout_Eng.xml
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\bin\Debug\KeyboardLayouts\KeyboardLayout_RusLower.xml
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\bin\Debug\KeyboardLayouts\KeyboardLayout_Rus.xml
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\bin\Debug\Example.exe
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\bin\Debug\Example.pdb
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\bin\Debug\Keyboard.dll
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\bin\Debug\TextBoxKeyboard.dll
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\bin\Debug\Keyboard.pdb
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\bin\Debug\TextBoxKeyboard.pdb
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\obj\Debug\Example.csproj.AssemblyReference.cache
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\obj\Debug\Example.MainForm.resources
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\obj\Debug\Example.CustomizeKeyboardForm.resources
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\obj\Debug\Example.KeyboradExampleForm.resources
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\obj\Debug\Example.KeyboardNetApplicationForm.resources
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\obj\Debug\Example.Properties.Resources.resources
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\obj\Debug\Example.csproj.GenerateResource.cache
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\obj\Debug\Example.csproj.CopyComplete
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\obj\Debug\Example.exe
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Example\obj\Debug\Example.pdb

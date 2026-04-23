@@ -94,3 +94,9 @@ D:\YJuhno\Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Keyboar
 D:\YJuhno\Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csproj.CoreCompileInputs.cache
 D:\YJuhno\Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
 D:\YJuhno\Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.dll
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Keyboard\bin\Debug\Keyboard.pdb
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csproj.AssemblyReference.cache
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.csproj.CoreCompileInputs.cache
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.dll
+D:\YJuhno\Codepproject_Articles\All_Articles\Touchscreen GDI+ Drawn Keyboard\Touchscreen-GDI-Drawn-Keyboard\VirtualKeyboardExample\Keyboard\obj\Debug\Keyboard.pdb
